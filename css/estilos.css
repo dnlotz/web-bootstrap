@@ -1,0 +1,35 @@
+/*Sobreescribiendo las hojas de estilos de bootstrap*/
+/*menu*/
+#menu img{
+    width: 200px;
+}
+#menu{
+    background: #185B04 !important;
+}
+#menu a{
+    color: #fff;
+}
+#menu a:hover{
+    color: #fff200;
+}
+/*portada*/
+.portada img{
+    max-height: 70vh;
+}
+/*footer*/
+#pie{
+    background: linear-gradient(180deg, #185B04, #339A14);
+    color: white;
+}
+#derecho{
+    text-align: center;
+    color: black;
+}
+#divcard{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+#carreras{
+    padding-left: 30px;
+    padding-right: 30px;
+}
